@@ -22,7 +22,7 @@ try {
     $arrest->rest();
     
 } catch (Exception $e) {
-    echo $e;
+    echo "Connection " ,$e;
 }
 
 ?>
