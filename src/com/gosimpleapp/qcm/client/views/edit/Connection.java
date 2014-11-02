@@ -92,9 +92,11 @@ public class Connection extends Composite implements HasValue<HasName>{
 
 	@UiHandler("okButton")
 	void onOkButtonClick(ClickEvent event) {
+		System.out.println("Click");
 		if (passwordPasswordTextBox.isVisible()){
 			ValueChangeEvent.fire(Connection.this, getValue());
 		}else{
+			System.out.println("deconnection");
 			ValueChangeEvent.fire(Connection.this,(HasName) new Message(Message.DELETE));
 			setDisconnected();
 		}

@@ -89,13 +89,14 @@ public class EditQCMEntry implements EntryPoint,ValueChangeHandler<HasName>,Requ
 						DistantStorage.getUser("User", "email", fake_user.email,EditQCMEntry.this);
 					}
 				}else if (hasName instanceof Message){
+					RootLayoutPanel.get().setWidgetRightWidth(connection, 0, Unit.EM, 37, Unit.EM);
 					unLoadBrowser();
 	
 				}	
 			}});
 	
 		RootLayoutPanel.get().add(connection);
-		RootLayoutPanel.get().setWidgetRightWidth(connection, 0, Unit.EM, 35, Unit.EM);
+		RootLayoutPanel.get().setWidgetRightWidth(connection, 0, Unit.EM, 37, Unit.EM);
 		PublicClassAndData.setMessage("Identification ...");
 
 	}
