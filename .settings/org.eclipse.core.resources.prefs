@@ -1,10 +1,13 @@
 eclipse.preferences.version=1
 encoding//src/com/gosimpleapp/qcm/client/EditQCMEntry.java=UTF-8
+encoding//src/com/gosimpleapp/qcm/client/PlayerEntry.java=UTF-8
+encoding//src/com/gosimpleapp/qcm/client/QCMConstants.java=UTF-8
 encoding//src/com/gosimpleapp/qcm/client/QCMConstants_fr.properties=UTF-8
 encoding//src/com/gosimpleapp/qcm/client/model/education/Mateer.java=UTF-8
 encoding//src/com/gosimpleapp/qcm/client/model/education/School.java=UTF-8
 encoding//src/com/gosimpleapp/qcm/client/model/qcm/Answer.java=UTF-8
 encoding//src/com/gosimpleapp/qcm/client/model/storage/MemoryStorage.java=UTF-8
+encoding//src/com/gosimpleapp/qcm/client/views/QCM/QCMItemView.java=UTF-8
 encoding//src/com/gosimpleapp/qcm/client/views/edit/AddAndRemove.java=UTF-8
 encoding//src/com/gosimpleapp/qcm/client/views/edit/AnswerEdit.java=UTF-8
 encoding//src/com/gosimpleapp/qcm/client/views/edit/CourseEdit.java=UTF-8

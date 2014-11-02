@@ -1,7 +1,8 @@
 /** Add css rules here for your application. */
 
 
-/** Example rules used by the template application (remove for your app) */
+
+
 h1 {
   font-size: 2em;
   font-weight: bold;
@@ -30,14 +31,65 @@ h1 {
 .gwt-HorizontalPanel {
 	 border:0px;
 }
-
-.gwt-Label {
-	border: 0px;
-	font-weight: normal;
-}
 .dialogVPanel {
   margin: 5px;
 }
+/*
+.gwt-Label {
+	font-size: 1.3em;
+	border: 0px;
+	font-weight: normal;
+}
+
+.gwt-ListBox {
+	font-size: 1.3em;
+}
+.gwt-CheckBox {
+	font-size: 1.6em;
+	color:DarkGrey
+}
+.gwt-HTML {
+	font-size: 1.6em;
+	border: 0px;
+	font-weight: normal;
+}
+
+
+.response {
+  	font-size: 1.6em;
+}
+
+*/
+
+.next {
+  	font-size: 1.2em;
+}
+
+.explanation {
+  	font-size: 1.2em;
+  	font-style: italic;
+}
+
+.question {
+  	font-size: 1.7em;
+  	font-weight: bold;
+  	color:#2545b6;
+}
+
+.proposal {
+  	font-size: 1.5em;
+
+  	  	color:#4277f4;
+}
+.score {
+  	font-size: 2em;
+  	  	color:#4277f4;
+}
+.gwt-DecoratorPanel .middleCenter {
+   height: 100%;
+   width: 100%;
+ }
+ 
 
 .serverResponseLabelError {
   color: red;
@@ -47,3 +99,6 @@ h1 {
 #closeButton {
   margin: 15px 6px 6px;
 }
+
+
+
