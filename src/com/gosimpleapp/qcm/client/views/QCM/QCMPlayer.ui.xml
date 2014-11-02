@@ -1,0 +1,21 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui" xmlns:my='urn:import:com.gosimpleapp.qcm.client.views.QCM'>
+	<ui:style>
+	
+	</ui:style>
+	<g:LayoutPanel>
+
+   	<g:layer right="0.0pct" width="24.0em">
+			<my:QCMSelection ui:field="qcmSelection"></my:QCMSelection>
+		</g:layer>
+   	<g:layer left='0.3em' right='0.3em' top='1.8em' height='4em'>
+			<my:Score ui:field="score"></my:Score>
+		</g:layer>
+	<g:layer left='0.3em' right='0.3em' top='5.8em' bottom='0.3em' >
+			<my:QCMItemView ui:field="qcmItemView"></my:QCMItemView>
+		</g:layer>
+
+
+	</g:LayoutPanel>
+</ui:UiBinder> 

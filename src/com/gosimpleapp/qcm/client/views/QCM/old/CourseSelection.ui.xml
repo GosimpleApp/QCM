@@ -1,0 +1,26 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui">
+	<ui:style>
+		.important {
+		font-weight: bold;
+		}
+	</ui:style>
+	<g:VerticalPanel width="100%" spacing="10">
+
+		<g:HorizontalPanel>
+				<g:Label>Formation</g:Label>
+				<g:ListBox visibleItemCount="1"/>
+	
+			
+			<g:Label>Matière</g:Label>
+					<g:ListBox visibleItemCount="1"/>
+			
+			<g:Label>Cours</g:Label>
+					<g:ListBox visibleItemCount="1"/>
+				
+		</g:HorizontalPanel>
+	</g:VerticalPanel>
+	
+	
+</ui:UiBinder> 

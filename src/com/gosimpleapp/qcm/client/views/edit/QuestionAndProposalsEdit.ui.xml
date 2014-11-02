@@ -1,0 +1,49 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui" xmlns:my='urn:import:com.gosimpleapp.qcm.client.views.edit'
+	xmlns:myV='urn:import:com.gosimpleapp.qcm.client.views.QCM'>
+
+	<ui:style>
+	.fontStyleTitle {
+		font-weight: bold
+	}
+	</ui:style>
+
+	<g:HorizontalPanel  spacing="10">
+		<g:Cell verticalAlignment="ALIGN_MIDDLE">
+			<my:AddAndRemove ui:field="addAndRemove" />
+		</g:Cell>
+		
+		<g:VerticalPanel width="100%" spacing="10">
+
+
+		
+			<g:TextArea ui:field="questionTextArea" width="100%" />
+			<g:HorizontalPanel>
+					<g:VerticalPanel width="100%" spacing="5">
+						<g:Label text="Poposition 1" styleName="{style.fontStyleTitle}"></g:Label>
+						<my:ProposalEdit ui:field="proposalEdit_00"></my:ProposalEdit>
+					</g:VerticalPanel>
+					
+					
+					<g:VerticalPanel width="100%" spacing="5">
+						<g:Label text="Poposition 2" styleName="{style.fontStyleTitle}"></g:Label>
+						<my:ProposalEdit ui:field="proposalEdit_01"></my:ProposalEdit>
+					</g:VerticalPanel>
+				
+				
+					<g:VerticalPanel width="100%" spacing="5">
+						<g:Label text="Poposition 3" styleName="{style.fontStyleTitle}"></g:Label>
+						<my:ProposalEdit ui:field="proposalEdit_10"></my:ProposalEdit>
+					</g:VerticalPanel>
+					
+					
+					<g:VerticalPanel width="100%" spacing="5">
+						<g:Label text="Poposition 4" styleName="{style.fontStyleTitle}"></g:Label>
+						<my:ProposalEdit ui:field="proposalEdit_11"></my:ProposalEdit>
+					</g:VerticalPanel>
+			</g:HorizontalPanel>
+		</g:VerticalPanel>
+	</g:HorizontalPanel>
+
+</ui:UiBinder> 
