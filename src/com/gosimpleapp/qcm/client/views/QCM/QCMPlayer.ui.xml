@@ -15,7 +15,7 @@
 			<my:Score ui:field="score"></my:Score>
 		</g:layer>
 		
-	<g:layer  top='20%' height="80%"  left="1%" width="98%">
+	<g:layer  top='17%' height="83%"  left="1%" width="98%">
 			<my:QCMItemView ui:field="qcmItemView"></my:QCMItemView>
 		</g:layer>
 
