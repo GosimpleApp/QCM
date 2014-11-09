@@ -4,8 +4,8 @@ import com.google.gwt.core.client.GWT;
 import com.google.gwt.uibinder.client.UiBinder;
 import com.google.gwt.uibinder.client.UiField;
 import com.google.gwt.user.client.ui.Composite;
-import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.Widget;
+import com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget;
 
 public class Score extends Composite {
 
@@ -13,7 +13,7 @@ public class Score extends Composite {
 
 	interface ScoreUiBinder extends UiBinder<Widget, Score> {
 	}
-	@UiField Label scoreLabel;
+	@UiField HTMLAdatativeFontSizeWidget scoreLabel;
 	
 	public Score() {
 		initWidget(uiBinder.createAndBindUi(this));
@@ -21,7 +21,7 @@ public class Score extends Composite {
 	}
 
 	public void setScore(double score){
-		scoreLabel.setText(""+Math.round(score*100.0)/100.0);
+		scoreLabel.setText("Score "+Math.round(score*100.0)/100.0+" / 100");
 	}
 
 }

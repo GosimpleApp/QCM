@@ -6,14 +6,14 @@
 	</ui:style>
 
    		<g:HorizontalPanel spacing="10" >
-   			<g:Cell verticalAlignment="ALIGN_MIDDLE">
+   			<g:Cell verticalAlignment="ALIGN_MIDDLE" horizontalAlignment="ALIGN_RIGHT">
 				<g:ListBox ui:field="selectionListBox"/>
 			</g:Cell>
 		
-			<g:Cell verticalAlignment="ALIGN_MIDDLE">
+			<g:Cell verticalAlignment="ALIGN_MIDDLE" horizontalAlignment="ALIGN_RIGHT">
 					<g:Label text="Charger :"/>
 			</g:Cell>
-			<g:Cell verticalAlignment="ALIGN_MIDDLE">
+			<g:Cell verticalAlignment="ALIGN_MIDDLE" horizontalAlignment="ALIGN_RIGHT">
 				<g:TextBox text="12345678" ui:field="courseIdTextBox" maxLength="10" visibleLength="13"/>
 			</g:Cell>
 			

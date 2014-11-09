@@ -1,10 +1,12 @@
 /** Add css rules here for your application. */
 
+body{
 
+}
 
 
 h1 {
-  font-size: 2em;
+
   font-weight: bold;
   color: #777777;
   margin: 40px 0px 70px;
@@ -62,27 +64,43 @@ h1 {
 */
 
 .next {
-  	font-size: 1.2em;
+  
 }
 
 .explanation {
-  	font-size: 1.2em;
+	
   	font-style: italic;
 }
 
 .question {
-  	font-size: 1.7em;
-  	font-weight: bold;
+ 	font-family: "Monaco",Monospace;;
   	color:#2545b6;
 }
 
 .proposal {
-  	font-size: 1.5em;
-
-  	  	color:#4277f4;
+  	
+ 	border-style: solid;
+    border-width: 1px;
+  	color:#4277f4;
+ font-family: "Monaco",Monospace;
+  	-moz-border-radius: 7px;
+	border-radius: 7px;
+  	  	
 }
+#loading {
+    display: block;
+
+
+margin-left: auto ;
+  margin-right: auto ;
+  width:100%;
+    text-align: center;
+ color:#4277f4;
+ 
+}
+
 .score {
-  	font-size: 2em;
+  font-family: "Monaco",Monospace;
   	  	color:#4277f4;
 }
 .gwt-DecoratorPanel .middleCenter {

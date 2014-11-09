@@ -10,6 +10,14 @@ public class PublicClassAndData {
 	}
 	
 	public static void setMessage(String message){
-		RootPanel.get("message").getElement().setInnerHTML(message);
+		if (message.equals("")){
+			RootPanel.get("loading").setVisible(false);
+			RootPanel.get("message").setVisible(false);
+		}else{
+			RootPanel.get("loading").setVisible(true);
+			RootPanel.get("message").setVisible(true);
+			RootPanel.get("message").getElement().setInnerHTML(message);
+		}
+		
 	}
 }

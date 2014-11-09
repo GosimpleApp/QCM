@@ -134,6 +134,7 @@ public class PlayerEntry implements EntryPoint , RequestCallback {
 	void nextItem(){
 		if (itemList.size()>0)
 		{
+			System.out.println("New item");
 			QCMItem qcmItem=(QCMItem) itemList.get(random.nextInt(itemList.size()));
 			itemList.remove(qcmItem);
 	
