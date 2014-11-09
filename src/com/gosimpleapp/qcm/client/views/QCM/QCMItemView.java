@@ -100,10 +100,10 @@ public class QCMItemView extends Composite implements  HasValue<HasName> {
 			System.out.println("Réponse incorrecte");
 		}
 		if (propsal.answer.isASolution){
-			proposal_html.getElement().getStyle().setBackgroundColor("#99FF99");
+			proposal_html.getElement().getStyle().setBackgroundColor("#8CA176");
 			
 		}else{
-			proposal_html.getElement().getStyle().setBackgroundColor("#FF6666");
+			proposal_html.getElement().getStyle().setBackgroundColor("#644F65");
 		}
 
 
