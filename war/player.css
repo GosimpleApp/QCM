@@ -1,0 +1,112 @@
+/** Add css rules here for your application. */
+body {
+	background-color: #000014 !important;
+}
+
+h1 {
+	font-weight: bold;
+	color: #777777;
+	margin: 40px 0px 70px;
+	text-align: center;
+}
+
+.sendButton {
+	display: block;
+	font-size: 12px;
+}
+
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {
+	width: 400px;
+}
+
+.gwt-TextArea {
+	font-style: italic;
+}
+
+.gwt-VerticalPanel {
+	border: 0px;
+}
+
+.gwt-HorizontalPanel {
+	border: 0px;
+}
+
+.dialogVPanel {
+	margin: 5px;
+}
+
+
+
+.testZone {
+	font-size: 12px;
+	font-family: Amarante-Regular;
+}
+
+.next {
+	border: solid #3c3c50;
+	color: #b47850;
+	background-color: #fff0c8;
+	font-size: 36px;
+}
+
+.explanation {
+	font-style: italic;
+}
+
+.question {
+	font-family: Amarante-Regular;
+	color: #b47850;
+	background-color: #fff0c8;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.proposal {
+	color: #f0f0dc;
+	background-color: #001400;
+	border: solid #b4c8c8;
+	color: #fff0dc;
+	font-family: Amarante-Regular;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+}
+
+#loading {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	text-align: center;
+	color: #fff1c6;
+}
+
+#message {
+	color: #fff1c6;
+}
+
+.label {
+	color: #fff0c8;
+}
+
+.score {
+	font-family: Amarante-Regular;
+	background-color: #b47850;
+	color: #fff0c8;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.gwt-DecoratorPanel .middleCenter {
+	height: 100%;
+	width: 100%;
+}
+
+.serverResponseLabelError {
+	color: red;
+}
+
+/** Set ids using widget.getElement().setId("idOfElement") */
+#closeButton {
+	margin: 15px 6px 6px;
+}

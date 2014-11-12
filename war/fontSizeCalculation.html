@@ -1,0 +1,144 @@
+<!doctype html>
+
+<html>
+<head>
+<style>
+
+.result{
+	font-size:24px;
+	border:1px solid;
+}
+
+</style>
+<script>
+
+
+	function run(font) {
+
+		var textDiv=document.getElementById("text");
+		textDiv.style.fontFamily=font;
+	
+		var exceptionsH =new Object();;
+		var exceptionsW=  new Object();;
+		
+	
+
+		var maxHeight=0;
+		var maxWidth=0;
+		
+		for(var i=32;i<127;++i) {
+			
+			var c=String.fromCharCode(i);
+			textDiv.innerHTML = c;
+			var h = textDiv.offsetHeight;
+			var w = textDiv.offsetWidth;
+			
+			if (h>maxHeight){
+				maxHeight=h;
+			}
+			if (w>maxWidth){
+				maxWidth=w;
+			}
+			
+		}
+		
+	
+		for(var i=32;i<127;++i) {
+			
+			var c=String.fromCharCode(i);
+
+			textDiv.innerHTML = c;
+			var h = textDiv.offsetHeight;
+			var w = textDiv.offsetWidth;
+			
+			if (h!=maxHeight){
+				if (!exceptionsH[h]){
+					exceptionsH[h]=c+" ";
+				}else{
+					exceptionsH[h]+=c+" ";
+				}
+				
+			}
+			if (w!=maxWidth){
+				if (!exceptionsW[w]){
+					exceptionsW[w]=c+" "
+					
+				}else{
+					exceptionsW[w]+=c+" ";
+				}
+			}
+			
+			
+		}
+		
+		var resultDiv = document.createElement("div");
+		resultDiv.style.fontFamily=font;
+		resultDiv.innerHTML = "<h2>"+font+"</h2>";
+		console.log(resultDiv.innerHTML );
+		
+		resultDiv.innerHTML += "<b>Max</b>"+maxWidth+","+maxHeight+"<br><br>";
+		console.log(resultDiv.innerHTML );
+		if (i % 10 == 0 && i!=0) {
+			resultDiv.innerHTML += "<br>";
+			console.log(resultDiv.innerHTML );
+		}
+		
+		resultDiv.innerHTML += "<b>Width exeception </b><br><br>";
+		console.log(resultDiv.innerHTML );
+		for(var key in exceptionsW)
+		{
+			var value = exceptionsW[key];
+			resultDiv.innerHTML +=key + " = " + value + '<br>';
+			console.log(resultDiv.innerHTML );
+		}
+		
+		resultDiv.innerHTML += "<b>Height exeception </b><br><br>";
+		console.log(resultDiv.innerHTML );
+		for(var key in exceptionsH)
+		{
+			var value = exceptionsH[key];
+			resultDiv.innerHTML +=key + " = " + value + '<br>';
+			console.log(resultDiv.innerHTML );
+		}
+		
+		
+
+		resultDiv.innerHTML+="<b>JSON W</b><br>"+JSON.stringify(exceptionsW);
+		//console.log(JSON.stringify(exceptionsW));
+		//console.log(JSON.stringify(exceptionsH));
+		resultDiv.innerHTML+="<b>JSON H</b><br>"+JSON.stringify(exceptionsH);
+		
+		document.getElementById("result").appendChild(resultDiv);
+		console.log("Finally " +resultDiv.innerHTML);
+		
+		
+		
+	}
+	
+	
+	
+</script>
+
+
+</head>
+<body>
+
+<span id="text" ></span>
+
+
+
+
+<div id="result" class="result" ></div>
+<div id="jsonW" class="result" ></div>
+<div id="jsonH" class="result" ></div>
+<script>
+run("Times New Roman, Times, serif");
+run("Georgia, serif");
+run("Arial, Helvetica, sans-serif");
+
+</script>
+
+
+
+
+</body>
