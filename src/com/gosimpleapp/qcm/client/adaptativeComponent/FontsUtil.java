@@ -164,17 +164,17 @@ public class FontsUtil {
 
 		html.getElement().getStyle().setFontSize(12.0*correctRatio, Style.Unit.PX);
 
-		double newWidth=html.getElement().getFirstChildElement().getOffsetWidth();
-		double newHeight=html.getElement().getFirstChildElement().getOffsetHeight();
+		//double newWidth=html.getElement().getFirstChildElement().getOffsetWidth();
+		//double newHeight=html.getElement().getFirstChildElement().getOffsetHeight();
 		
-		double remainingWidth=(widgetWidth-newWidth)/2.0;
-		double remainingHeight=(widgetHeight-newHeight)/2.0;
+		//double remainingWidth=(widgetWidth-newWidth)/2.0;
+		//double remainingHeight=(widgetHeight-newHeight)/2.0;
 		
 		//html.getElement().getFirstChildElement().getStyle().setProperty("paddingLeft",  remainingWidth, Style.Unit.PX);
 		//html.getElement().getFirstChildElement().getStyle().setProperty("paddingTop",  remainingHeight, Style.Unit.PX);
 		
 	
-		System.out.println("Current size  "+html.getElement().getFirstChildElement().getOffsetWidth()+" , "+html.getElement().getFirstChildElement().getOffsetHeight());
+		//System.out.println("Current size  "+html.getElement().getFirstChildElement().getOffsetWidth()+" , "+html.getElement().getFirstChildElement().getOffsetHeight());
 	}
 
 
