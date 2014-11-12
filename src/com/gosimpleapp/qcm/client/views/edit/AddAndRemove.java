@@ -15,6 +15,8 @@ import com.google.gwt.user.client.ui.PushButton;
 import com.google.gwt.user.client.ui.Widget;
 import com.gosimpleapp.qcm.client.EditQCMEntry;
 import com.gosimpleapp.qcm.client.model.education.Component;
+import com.google.gwt.uibinder.client.UiHandler;
+import com.google.gwt.event.dom.client.MouseOverEvent;
 
 
 
@@ -38,8 +40,8 @@ public class AddAndRemove extends Composite  implements HasValue<HasName>{
 		setChangeEvents();
 	}
 	
-	private void setChangeEvents()
-	{
+	@SuppressWarnings("deprecation")
+	private void setChangeEvents(){
 		removePushButton.addClickHandler(new ClickHandler(){
 			@Override
 			public void onClick(ClickEvent event) {
@@ -50,7 +52,15 @@ public class AddAndRemove extends Composite  implements HasValue<HasName>{
 			public void onClick(ClickEvent event) {
 				setValue(new Message(Message.NEW), true);
 			}});
-		}
+		
+		removePushButton.addMouseListener(
+			        new ToolTypeListenner(
+			          "Cliquer pour supprimer", 5000 /* timeout in milliseconds*/,"yourcssclass"));
+		 
+		newPushButton.addMouseListener(
+		        new ToolTypeListenner(
+		          "Cliquer pour dupliquer cet élément", 5000 /* timeout in milliseconds*/,"yourcssclass"));
+	}
 	
 	
 	@Override
@@ -78,8 +88,7 @@ public class AddAndRemove extends Composite  implements HasValue<HasName>{
 	@Override
 	public void setValue(HasName value, boolean fireEvents) {
 		this.value=value;
-		if (fireEvents)
-		{
+		if (fireEvents){
 			ValueChangeEvent.fire(this, getValue());
 		}
 		
@@ -87,4 +96,5 @@ public class AddAndRemove extends Composite  implements HasValue<HasName>{
 
 
 
+	
 }

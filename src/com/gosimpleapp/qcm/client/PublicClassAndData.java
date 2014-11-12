@@ -14,6 +14,7 @@ public class PublicClassAndData {
 			RootPanel.get("loading").setVisible(false);
 			RootPanel.get("message").setVisible(false);
 		}else{
+			
 			RootPanel.get("loading").setVisible(true);
 			RootPanel.get("message").setVisible(true);
 			RootPanel.get("message").getElement().setInnerHTML(message);

@@ -1,7 +1,7 @@
 /** Add css rules here for your application. */
 
 body{
-	 background-color:#000014 !important;
+
 }
 
 
@@ -63,35 +63,8 @@ h1 {
 
 */
 
-.next {
-   border: solid #3c3c50; 
-  color:#b47850; background-color:#fff0c8; 
-  font-size:1.5em;
-  }
 
-.explanation {
-	
-  	font-style: italic;
-}
 
-.question {
- 	font-family: "Monaco",Monospace;;
-  	color:#b47850; background-color:#fff0c8; 
-  	-moz-border-radius: 3px;
-  		border-radius: 3px;
-  	}
-
-.proposal {
-  	
-  	color:#f0f0dc; background-color:#001400; border: solid #b4c8c8; 
-    border-width: 1px;
-    color:#fff0dc
- 
- font-family: "Monaco",Monospace;
-  	-moz-border-radius: 7px;
-	border-radius: 7px;
-  	  	
-}
 #loading {
     display: block;
 
@@ -100,28 +73,16 @@ h1 {
   margin-right: auto ;
   width:100%;
     text-align: center;
- color:#fff1c6;
+
  
  
 }
 #message {
 
- color:#fff1c6;
+
  
 }
 
-
-
-
-
-.score {
-  font-family: "Monaco",Monospace;
-  	background-color:#b47850; color:#fff0c8; 
-  	 	-moz-border-radius: 3px;
-  		border-radius: 3px;
-
-  	  
-}
 .gwt-DecoratorPanel .middleCenter {
    height: 100%;
    width: 100%;

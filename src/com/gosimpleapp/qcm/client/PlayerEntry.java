@@ -85,6 +85,7 @@ public class PlayerEntry implements EntryPoint , RequestCallback {
 			courseId="1414607419002";
 		}
 		
+	
 		course= qcmPlayer.qcmSelection.getCourse(courseId); //check if in local
 		
 		if (course!=null){
@@ -101,7 +102,7 @@ public class PlayerEntry implements EntryPoint , RequestCallback {
 		
 	void getFromDistantStorage(String courseId)
 	{
-		System.out.println("Loading course from distant");
+		System.out.println("Loading ....");
 		PublicClassAndData.setMessage("Load QCM "+courseId+" from server ...");
 		DistantStorage.get("Course","id",courseId,new RequestCallback(){
 			@Override
@@ -111,6 +112,7 @@ public class PlayerEntry implements EntryPoint , RequestCallback {
 				 if (course!=null){
 					 System.out.println("Course is not null geting items");
 					 DistantStorage.get("QCMItem","parent_id",""+course.getId(),PlayerEntry.this);
+					 PublicClassAndData.setMessage("");
 				 }
 			}
 			@Override

@@ -21011,3 +21011,1069 @@ Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderIm
       Compiling...
          Compilation completed in 0,00 seconds
       Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2737 units from cache.
+Compiling...
+   20% complete (ETR: 17 seconds)
+   20% complete (ETR: 17 seconds)
+   20% complete (ETR: 17 seconds)
+   30% complete (ETR: 14 seconds)
+   40% complete (ETR: 11 seconds)
+   50% complete (ETR: 8 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 25,37 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2737 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2795 units from cache.
+Compiling...
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   70% complete (ETR: 2 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 15,90 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,69 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView.QCMItemViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,10 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415651586739.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415651586739.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415651586739_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView.QCMItemViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415651587822.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415651587822.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415651587822_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2795 cached/archived units.  Used 2795 / 2795 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMPlayer.QCMPlayerUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMPlayer_QCMPlayerUiBinderImpl_designTime1415651979754_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMSelection.QCMSelectionUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMSelection_QCMSelectionUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.Score.ScoreUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Validating units:
+         Errors in 'generated://7EB9DF0B7D1586FFC2328443D2321F60/com/gosimpleapp/qcm/client/views/QCM/Score_ScoreUiBinderImpl.java'
+            Line 92: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+            See snapshot: /var/folders/l2/wwx2bxds6sqgfdyfjhhzxwp00000gn/T/com.gosimpleapp.qcm.client.views.QCM.Score_ScoreUiBinderImpl2852364459025850939.java
+      Removing invalidated units
+[ERROR] Errors in 'generated://7EB9DF0B7D1586FFC2328443D2321F60/com/gosimpleapp/qcm/client/views/QCM/Score_ScoreUiBinderImpl.java'
+   [ERROR] Line 92: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+   See snapshot: /var/folders/l2/wwx2bxds6sqgfdyfjhhzxwp00000gn/T/com.gosimpleapp.qcm.client.views.QCM.Score_ScoreUiBinderImpl5823525622478022607.java
+[ERROR] Errors in 'generated://7EB9DF0B7D1586FFC2328443D2321F60/com/gosimpleapp/qcm/client/views/QCM/Score_ScoreUiBinderImpl.java'
+   [ERROR] Line 92: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+   See snapshot: /var/folders/l2/wwx2bxds6sqgfdyfjhhzxwp00000gn/T/com.gosimpleapp.qcm.client.views.QCM.Score_ScoreUiBinderImpl922046861683959957.java
+Rebinding com.gosimpleapp.qcm.client.views.QCM.Score_ScoreUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+[ERROR] Failed to create an instance of 'com.gosimpleapp.qcm.client.views.QCM.Score' via deferred binding 
+java.lang.Error: Unresolved compilation problem: 
+	Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+
+	at com.gosimpleapp.qcm.client.views.QCM.Score_ScoreUiBinderImpl$Widgets.build_scoreLabel(Score_ScoreUiBinderImpl.java:92)
+	at com.gosimpleapp.qcm.client.views.QCM.Score_ScoreUiBinderImpl$Widgets.get_scoreLabel(Score_ScoreUiBinderImpl.java:82)
+	at com.gosimpleapp.qcm.client.views.QCM.Score_ScoreUiBinderImpl$Widgets.build_f_LayoutPanel1(Score_ScoreUiBinderImpl.java:72)
+	at com.gosimpleapp.qcm.client.views.QCM.Score_ScoreUiBinderImpl$Widgets.get_f_LayoutPanel1(Score_ScoreUiBinderImpl.java:66)
+	at com.gosimpleapp.qcm.client.views.QCM.Score_ScoreUiBinderImpl$Widgets.access$0(Score_ScoreUiBinderImpl.java:65)
+	at com.gosimpleapp.qcm.client.views.QCM.Score_ScoreUiBinderImpl.createAndBindUi(Score_ScoreUiBinderImpl.java:15)
+	at com.gosimpleapp.qcm.client.views.QCM.Score_ScoreUiBinderImpl.createAndBindUi(Score_ScoreUiBinderImpl.java:1)
+	at com.gosimpleapp.qcm.client.views.QCM.Score.<init>(Score.java:19)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.google.gwt.dev.shell.ModuleSpace.rebindAndCreate(ModuleSpace.java:480)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate0(DelegatingModuleSpace.java:202)
+	at sun.reflect.GeneratedMethodAccessor110.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate0(ModuleSpace.java:237)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate(ModuleSpace.java:229)
+	at sun.reflect.GeneratedMethodAccessor362.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:263)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:255)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate(DelegatingModuleSpace.java:195)
+	at com.google.gwt.dev.shell.GWTBridgeImpl.create(GWTBridgeImpl.java:49)
+	at com.google.gwt.core.shared.GWT.create(GWT.java:72)
+	at com.google.gwt.core.client.GWT.create(GWT.java:86)
+	at com.gosimpleapp.qcm.client.views.QCM.QCMPlayer_QCMPlayerUiBinderImpl_designTime1415651979754.createAndBindUi(QCMPlayer_QCMPlayerUiBinderImpl_designTime1415651979754.java:31)
+	at com.gosimpleapp.qcm.client.views.QCM.QCMPlayer_QCMPlayerUiBinderImpl_designTime1415651979754.createAndBindUi(QCMPlayer_QCMPlayerUiBinderImpl_designTime1415651979754.java:1)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse0(UiBinderParser.java:139)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.access$0(UiBinderParser.java:123)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser$1.run(UiBinderParser.java:110)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderContext.runDesignTime(UiBinderContext.java:191)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse(UiBinderParser.java:107)
+	at com.google.gdt.eclipse.designer.uibinder.editor.UiBinderDesignPage.parse(UiBinderDesignPage.java:56)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:451)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.access$2(XmlDesignPage.java:443)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7$1.run(XmlDesignPage.java:417)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4721)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7.run(XmlDesignPage.java:414)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:527)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF_withProgress(XmlDesignPage.java:435)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:388)
+	at org.eclipse.wb.internal.core.xml.editor.UndoManager.refreshDesignerEditor(UndoManager.java:252)
+	at org.eclipse.wb.internal.core.xml.editor.UndoManager.activate(UndoManager.java:85)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.setActive(XmlDesignPage.java:171)
+	at org.eclipse.wb.internal.core.xml.editor.AbstractXmlEditor.pageChange(AbstractXmlEditor.java:652)
+	at org.eclipse.ui.part.MultiPageEditorPart$2.widgetSelected(MultiPageEditorPart.java:294)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4188)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1467)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1490)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1475)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3110)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:1794)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:283)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4188)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1467)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1490)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1475)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4031)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Public resources found in...
+Translatable source found in...
+Found 2795 cached/archived units.  Used 2795 / 2795 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.Score.ScoreUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.Score_ScoreUiBinderImpl_designTime1415652030390_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.Score.ScoreUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.Score_ScoreUiBinderImpl_designTime1415652031121_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2794 cached/archived units.  Used 2794 / 2795 units from cache.
+Compiling...
+   Compilation completed in 0,02 seconds
+Invalid Unit: com.gosimpleapp.qcm.client.views.QCM.QCMPlayer
+Invalid Unit: com.gosimpleapp.qcm.client.PlayerEntry
+Invalid units found: 2
+Compiling...
+   Compilation completed in 0,12 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMPlayer.QCMPlayerUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMPlayer_QCMPlayerUiBinderImpl_designTime1415652098436_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMSelection.QCMSelectionUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMSelection_QCMSelectionUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.Score.ScoreUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.Score_ScoreUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView.QCMItemViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Validating units:
+         Errors in 'generated://60E5306D547825A5C6D84641CD8C973F/com/gosimpleapp/qcm/client/views/QCM/QCMItemView_QCMItemViewUiBinderImpl.java'
+            Line 164: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+            Line 231: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+            Line 268: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+            Line 305: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+            Line 342: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+            See snapshot: /var/folders/l2/wwx2bxds6sqgfdyfjhhzxwp00000gn/T/com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl767001364232404354.java
+      Removing invalidated units
+[ERROR] Errors in 'generated://60E5306D547825A5C6D84641CD8C973F/com/gosimpleapp/qcm/client/views/QCM/QCMItemView_QCMItemViewUiBinderImpl.java'
+   [ERROR] Line 164: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+   [ERROR] Line 231: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+   [ERROR] Line 268: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+   [ERROR] Line 305: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+   [ERROR] Line 342: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+   See snapshot: /var/folders/l2/wwx2bxds6sqgfdyfjhhzxwp00000gn/T/com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl5927148329581361408.java
+[ERROR] Errors in 'generated://60E5306D547825A5C6D84641CD8C973F/com/gosimpleapp/qcm/client/views/QCM/QCMItemView_QCMItemViewUiBinderImpl.java'
+   [ERROR] Line 164: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+   [ERROR] Line 231: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+   [ERROR] Line 268: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+   [ERROR] Line 305: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+   [ERROR] Line 342: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+   See snapshot: /var/folders/l2/wwx2bxds6sqgfdyfjhhzxwp00000gn/T/com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl7771610494685300756.java
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl.Template
+   Checking rule <generate-with class='com.google.gwt.user.rebind.rpc.ServiceInterfaceProxyGenerator'/>
+      [ERROR] Errors in 'generated://60E5306D547825A5C6D84641CD8C973F/com/gosimpleapp/qcm/client/views/QCM/QCMItemView_QCMItemViewUiBinderImpl.java'
+         [ERROR] Line 164: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+         [ERROR] Line 231: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+         [ERROR] Line 268: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+         [ERROR] Line 305: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+         [ERROR] Line 342: Type mismatch: cannot convert from com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget to com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget
+         See snapshot: /var/folders/l2/wwx2bxds6sqgfdyfjhhzxwp00000gn/T/com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl8993834724195231340.java
+      [ERROR] Unable to find type 'com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl.Template'
+         [ERROR] Hint: Check that the type name 'com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl.Template' is really what you meant
+         [ERROR] Hint: Check that your classpath includes all required source roots
+[ERROR] Deferred binding failed for 'com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl.Template'; expect subsequent failures
+[ERROR] Failed to create an instance of 'com.gosimpleapp.qcm.client.views.QCM.QCMItemView$QCMItemViewUiBinder' via deferred binding 
+java.lang.RuntimeException: Deferred binding failed for 'com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl$Template' (did you forget to inherit a required module?)
+	at com.google.gwt.dev.shell.GWTBridgeImpl.create(GWTBridgeImpl.java:53)
+	at com.google.gwt.core.shared.GWT.create(GWT.java:72)
+	at com.google.gwt.core.client.GWT.create(GWT.java:86)
+	at com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl.<init>(QCMItemView_QCMItemViewUiBinderImpl.java:27)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at com.google.gwt.dev.shell.ModuleSpace.rebindAndCreate(ModuleSpace.java:480)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate0(DelegatingModuleSpace.java:202)
+	at sun.reflect.GeneratedMethodAccessor110.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate0(ModuleSpace.java:237)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate(ModuleSpace.java:229)
+	at sun.reflect.GeneratedMethodAccessor362.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:263)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:255)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate(DelegatingModuleSpace.java:195)
+	at com.google.gwt.dev.shell.GWTBridgeImpl.create(GWTBridgeImpl.java:49)
+	at com.google.gwt.core.shared.GWT.create(GWT.java:72)
+	at com.google.gwt.core.client.GWT.create(GWT.java:86)
+	at com.gosimpleapp.qcm.client.views.QCM.QCMItemView.<clinit>(QCMItemView.java:31)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:270)
+	at com.google.gwt.dev.shell.ModuleSpace.loadClassFromSourceName(ModuleSpace.java:670)
+	at com.google.gwt.dev.shell.ModuleSpace.rebindAndCreate(ModuleSpace.java:473)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate0(DelegatingModuleSpace.java:202)
+	at sun.reflect.GeneratedMethodAccessor110.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate0(ModuleSpace.java:237)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate(ModuleSpace.java:229)
+	at sun.reflect.GeneratedMethodAccessor362.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:263)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:255)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate(DelegatingModuleSpace.java:195)
+	at com.google.gwt.dev.shell.GWTBridgeImpl.create(GWTBridgeImpl.java:49)
+	at com.google.gwt.core.shared.GWT.create(GWT.java:72)
+	at com.google.gwt.core.client.GWT.create(GWT.java:86)
+	at com.gosimpleapp.qcm.client.views.QCM.QCMPlayer_QCMPlayerUiBinderImpl_designTime1415652098436.createAndBindUi(QCMPlayer_QCMPlayerUiBinderImpl_designTime1415652098436.java:32)
+	at com.gosimpleapp.qcm.client.views.QCM.QCMPlayer_QCMPlayerUiBinderImpl_designTime1415652098436.createAndBindUi(QCMPlayer_QCMPlayerUiBinderImpl_designTime1415652098436.java:1)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse0(UiBinderParser.java:139)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.access$0(UiBinderParser.java:123)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser$1.run(UiBinderParser.java:110)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderContext.runDesignTime(UiBinderContext.java:191)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse(UiBinderParser.java:107)
+	at com.google.gdt.eclipse.designer.uibinder.editor.UiBinderDesignPage.parse(UiBinderDesignPage.java:56)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:451)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.access$2(XmlDesignPage.java:443)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7$1.run(XmlDesignPage.java:417)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4721)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7.run(XmlDesignPage.java:414)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:527)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF_withProgress(XmlDesignPage.java:435)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:388)
+	at org.eclipse.wb.internal.core.xml.editor.UndoManager.refreshDesignerEditor(UndoManager.java:252)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.updateGEF(XmlDesignPage.java:361)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.refreshGEF(XmlDesignPage.java:354)
+	at org.eclipse.wb.internal.core.xml.editor.actions.RefreshAction.run(RefreshAction.java:47)
+	at org.eclipse.wb.internal.core.xml.editor.actions.DesignPageAction.run(DesignPageAction.java:35)
+	at org.eclipse.wb.internal.core.xml.editor.XmlExceptionComposite.doRefresh(XmlExceptionComposite.java:65)
+	at org.eclipse.wb.internal.core.editor.errors.ExceptionComposite$3.widgetSelected(ExceptionComposite.java:129)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4188)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1467)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1490)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1475)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4031)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Caused by: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:271)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:255)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate(DelegatingModuleSpace.java:195)
+	at com.google.gwt.dev.shell.GWTBridgeImpl.create(GWTBridgeImpl.java:49)
+	... 107 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor362.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:263)
+	... 110 more
+Caused by: com.google.gwt.core.ext.UnableToCompleteException: (see previous log entries)
+	at com.google.gwt.dev.shell.ModuleSpace.rebind(ModuleSpace.java:610)
+	at com.google.gwt.dev.shell.ModuleSpace.rebindAndCreate(ModuleSpace.java:470)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate0(DelegatingModuleSpace.java:202)
+	at sun.reflect.GeneratedMethodAccessor110.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate0(ModuleSpace.java:237)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate(ModuleSpace.java:229)
+	... 114 more
+[ERROR] Failed to create an instance of 'com.gosimpleapp.qcm.client.views.QCM.QCMItemView' via deferred binding 
+java.lang.RuntimeException: Deferred binding failed for 'com.gosimpleapp.qcm.client.views.QCM.QCMItemView$QCMItemViewUiBinder' (did you forget to inherit a required module?)
+	at com.google.gwt.dev.shell.GWTBridgeImpl.create(GWTBridgeImpl.java:53)
+	at com.google.gwt.core.shared.GWT.create(GWT.java:72)
+	at com.google.gwt.core.client.GWT.create(GWT.java:86)
+	at com.gosimpleapp.qcm.client.views.QCM.QCMItemView.<clinit>(QCMItemView.java:31)
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:270)
+	at com.google.gwt.dev.shell.ModuleSpace.loadClassFromSourceName(ModuleSpace.java:670)
+	at com.google.gwt.dev.shell.ModuleSpace.rebindAndCreate(ModuleSpace.java:473)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate0(DelegatingModuleSpace.java:202)
+	at sun.reflect.GeneratedMethodAccessor110.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate0(ModuleSpace.java:237)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate(ModuleSpace.java:229)
+	at sun.reflect.GeneratedMethodAccessor362.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:263)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:255)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate(DelegatingModuleSpace.java:195)
+	at com.google.gwt.dev.shell.GWTBridgeImpl.create(GWTBridgeImpl.java:49)
+	at com.google.gwt.core.shared.GWT.create(GWT.java:72)
+	at com.google.gwt.core.client.GWT.create(GWT.java:86)
+	at com.gosimpleapp.qcm.client.views.QCM.QCMPlayer_QCMPlayerUiBinderImpl_designTime1415652098436.createAndBindUi(QCMPlayer_QCMPlayerUiBinderImpl_designTime1415652098436.java:32)
+	at com.gosimpleapp.qcm.client.views.QCM.QCMPlayer_QCMPlayerUiBinderImpl_designTime1415652098436.createAndBindUi(QCMPlayer_QCMPlayerUiBinderImpl_designTime1415652098436.java:1)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse0(UiBinderParser.java:139)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.access$0(UiBinderParser.java:123)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser$1.run(UiBinderParser.java:110)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderContext.runDesignTime(UiBinderContext.java:191)
+	at com.google.gdt.eclipse.designer.uibinder.parser.UiBinderParser.parse(UiBinderParser.java:107)
+	at com.google.gdt.eclipse.designer.uibinder.editor.UiBinderDesignPage.parse(UiBinderDesignPage.java:56)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:451)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.access$2(XmlDesignPage.java:443)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7$1.run(XmlDesignPage.java:417)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:187)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:156)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4721)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage$7.run(XmlDesignPage.java:414)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:466)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:374)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:527)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF_withProgress(XmlDesignPage.java:435)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.internal_refreshGEF(XmlDesignPage.java:388)
+	at org.eclipse.wb.internal.core.xml.editor.UndoManager.refreshDesignerEditor(UndoManager.java:252)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.updateGEF(XmlDesignPage.java:361)
+	at org.eclipse.wb.internal.core.xml.editor.XmlDesignPage.refreshGEF(XmlDesignPage.java:354)
+	at org.eclipse.wb.internal.core.xml.editor.actions.RefreshAction.run(RefreshAction.java:47)
+	at org.eclipse.wb.internal.core.xml.editor.actions.DesignPageAction.run(DesignPageAction.java:35)
+	at org.eclipse.wb.internal.core.xml.editor.XmlExceptionComposite.doRefresh(XmlExceptionComposite.java:65)
+	at org.eclipse.wb.internal.core.editor.errors.ExceptionComposite$3.widgetSelected(ExceptionComposite.java:129)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:248)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4188)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1467)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1490)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1475)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:1279)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4031)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1032)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:148)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:579)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:135)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:382)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:236)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:648)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:603)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+Caused by: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:271)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:255)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate(DelegatingModuleSpace.java:195)
+	at com.google.gwt.dev.shell.GWTBridgeImpl.create(GWTBridgeImpl.java:49)
+	... 85 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor362.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.invokeOnDelegate(DelegatingModuleSpace.java:263)
+	... 88 more
+Caused by: com.google.gwt.core.ext.UnableToCompleteException: (see previous log entries)
+	at com.google.gwt.dev.shell.ModuleSpace.rebindAndCreate(ModuleSpace.java:518)
+	at com.google.gwt.dev.shell.designtime.DelegatingModuleSpace.rebindAndCreate0(DelegatingModuleSpace.java:202)
+	at sun.reflect.GeneratedMethodAccessor110.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.wb.internal.core.utils.reflect.ReflectionUtils.invokeMethod(ReflectionUtils.java:869)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate0(ModuleSpace.java:237)
+	at com.google.gwt.dev.shell.designtime.ModuleSpace.rebindAndCreate(ModuleSpace.java:229)
+	... 92 more
+Public resources found in...
+Translatable source found in...
+Found 2794 cached/archived units.  Used 2794 / 2795 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Invalid Unit: com.gosimpleapp.qcm.client.PlayerEntry
+Invalid Unit: com.gosimpleapp.qcm.client.views.QCM.QCMPlayer
+Invalid units found: 2
+Compiling...
+   Compilation completed in 0,01 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMPlayer.QCMPlayerUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMPlayer_QCMPlayerUiBinderImpl_designTime1415652210943_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMSelection.QCMSelectionUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMSelection_QCMSelectionUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.Score.ScoreUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.Score_ScoreUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView.QCMItemViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMPlayer.QCMPlayerUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMPlayer_QCMPlayerUiBinderImpl_designTime1415652211624_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2795 cached/archived units.  Used 2795 / 2795 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView.QCMItemViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,06 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415653119550.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415653119550.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415653119550_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView.QCMItemViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415653120822.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415653120822.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415653120822_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2737 cached/archived units.  Used 2737 / 2795 units from cache.
+Compiling...
+   Compilation completed in 2,47 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,07 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.edit.AddAndRemove.AddAndRemoveUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,05 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.edit.AddAndRemove_AddAndRemoveUiBinderImpl_designTime1415723963842.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimpleapp.qcm.client.views.edit.AddAndRemove_AddAndRemoveUiBinderImpl_designTime1415723963842.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.edit.AddAndRemove_AddAndRemoveUiBinderImpl_designTime1415723963842_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.edit.AddAndRemove.AddAndRemoveUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.edit.AddAndRemove_AddAndRemoveUiBinderImpl_designTime1415723967104.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimpleapp.qcm.client.views.edit.AddAndRemove_AddAndRemoveUiBinderImpl_designTime1415723967104.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.edit.AddAndRemove_AddAndRemoveUiBinderImpl_designTime1415723967104_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.edit.AddAndRemove.AddAndRemoveUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,13 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.edit.AddAndRemove_AddAndRemoveUiBinderImpl_designTime1415724369409.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimpleapp.qcm.client.views.edit.AddAndRemove_AddAndRemoveUiBinderImpl_designTime1415724369409.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.edit.AddAndRemove_AddAndRemoveUiBinderImpl_designTime1415724369409_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2796 units from cache.
+Compiling...
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   70% complete (ETR: 2 seconds)
+   80% complete (ETR: 1 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 11,22 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2795 cached/archived units.  Used 2795 / 2796 units from cache.
+Compiling...
+   Compilation completed in 0,02 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView.QCMItemViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415726100914.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415726100914.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415726100914_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView.QCMItemViewUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415726101655.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415726101655.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.gosimpleapp.qcm.client.views.QCM.QCMItemView_QCMItemViewUiBinderImpl_designTime1415726101655_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units

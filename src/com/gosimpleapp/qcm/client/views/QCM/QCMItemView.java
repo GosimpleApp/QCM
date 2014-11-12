@@ -1,25 +1,30 @@
 package com.gosimpleapp.qcm.client.views.QCM;
 
 import com.google.gwt.core.client.GWT;
+import com.google.gwt.core.client.Scheduler;
+import com.google.gwt.dom.client.Style.Unit;
 import com.google.gwt.event.dom.client.ClickEvent;
+import com.google.gwt.event.logical.shared.ResizeEvent;
+import com.google.gwt.event.logical.shared.ResizeHandler;
 import com.google.gwt.event.logical.shared.ValueChangeEvent;
 import com.google.gwt.event.logical.shared.ValueChangeHandler;
 import com.google.gwt.event.shared.HandlerRegistration;
 import com.google.gwt.uibinder.client.UiBinder;
 import com.google.gwt.uibinder.client.UiField;
 import com.google.gwt.uibinder.client.UiHandler;
+import com.google.gwt.user.client.Window;
 import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.HTML;
 import com.google.gwt.user.client.ui.HasValue;
-import com.google.gwt.user.client.ui.Label;
+import com.google.gwt.user.client.ui.LayoutPanel;
 import com.google.gwt.user.client.ui.Widget;
+import com.gosimpleapp.qcm.client.adaptativeComponent.HTMLAdatativeFontSizeWidget;
 import com.gosimpleapp.qcm.client.model.qcm.Proposal;
 import com.gosimpleapp.qcm.client.model.qcm.QCMItem;
-import com.gosimpleapp.qcm.client.views.components.HTMLAdatativeFontSizeWidget;
 import com.gosimpleapp.qcm.client.views.edit.HasName;
 import com.gosimpleapp.qcm.client.views.edit.Message;
 
-public class QCMItemView extends Composite implements  HasValue<HasName> {
+public class QCMItemView extends Composite implements  HasValue<HasName>, ResizeHandler {
 
 	private static QCMItemViewUiBinder uiBinder = GWT
 			.create(QCMItemViewUiBinder.class);
@@ -30,25 +35,85 @@ public class QCMItemView extends Composite implements  HasValue<HasName> {
 
 	@UiField HTMLAdatativeFontSizeWidget question;
 	@UiField HTML explanation;
-	
+	@UiField LayoutPanel layer;
 	@UiField HTMLAdatativeFontSizeWidget proposal_0;
 	@UiField HTMLAdatativeFontSizeWidget proposal_1;
 	@UiField HTMLAdatativeFontSizeWidget proposal_2;
 	@UiField HTMLAdatativeFontSizeWidget proposal_3;
+	
+	
 
 	int nb_clicked=0;
+	boolean isHorizontal;
+	boolean setAsHorizontal=true;
 	
 	public QCMItemView() {
 		initWidget(uiBinder.createAndBindUi(this));
+		Window.addResizeHandler(this);
+		setLayers();
+		
+	
 		explanation.setText("");
 		setValue(new QCMItem());
 	}
 	public QCMItemView(QCMItem qcmItem) {
 		initWidget(uiBinder.createAndBindUi(this));
+
+		Window.addResizeHandler(this);
+		setLayers();
 		explanation.setText("");
 		setValue(qcmItem);
+		
 	}
-
+	@Override
+	public void onResize(ResizeEvent event) {
+		 Scheduler.get().scheduleDeferred(
+	                new Scheduler.ScheduledCommand() {
+	                    public void execute() {
+	                    	setLayers();
+	                    }
+	                });  
+		
+	}
+	void setLayers(){
+		
+		System.out.println("setLayers");
+		isHorizontal=Window.getClientWidth()>=Window.getClientHeight();
+		if (isHorizontal && ! setAsHorizontal){
+			System.out.println("to horizontal");
+			layer.setWidgetTopHeight(layer.getWidget(0), 1,Unit.PCT, 48, Unit.PCT);
+			layer.setWidgetLeftWidth(layer.getWidget(0), 1,Unit.PCT, 48, Unit.PCT);
+			
+			layer.setWidgetTopHeight(layer.getWidget(1), 1,Unit.PCT, 48, Unit.PCT);
+			layer.setWidgetLeftWidth(layer.getWidget(1), 51,Unit.PCT, 48, Unit.PCT);
+			
+			//
+			
+			layer.setWidgetTopHeight(layer.getWidget(2), 51,Unit.PCT, 48, Unit.PCT);
+			layer.setWidgetLeftWidth(layer.getWidget(2), 1,Unit.PCT, 48, Unit.PCT);
+			
+			layer.setWidgetTopHeight(layer.getWidget(3), 51,Unit.PCT, 48, Unit.PCT);
+			layer.setWidgetLeftWidth(layer.getWidget(3), 51,Unit.PCT, 48, Unit.PCT);
+			
+			setAsHorizontal=true;
+			
+		}else if (!isHorizontal &&  setAsHorizontal){
+			
+			System.out.println("to vertical");
+			layer.setWidgetTopHeight(layer.getWidget(0), 1,Unit.PCT, 23, Unit.PCT);
+			layer.setWidgetTopHeight(layer.getWidget(1), 26,Unit.PCT, 23, Unit.PCT);
+			layer.setWidgetTopHeight(layer.getWidget(2), 51,Unit.PCT, 23, Unit.PCT);
+			layer.setWidgetTopHeight(layer.getWidget(3), 76,Unit.PCT, 23, Unit.PCT);
+			
+			
+			layer.setWidgetLeftWidth(layer.getWidget(0), 1,Unit.PCT, 99, Unit.PCT);
+			layer.setWidgetLeftWidth(layer.getWidget(1), 1,Unit.PCT, 99, Unit.PCT);
+			layer.setWidgetLeftWidth(layer.getWidget(2), 1,Unit.PCT, 99, Unit.PCT);
+			layer.setWidgetLeftWidth(layer.getWidget(3), 1,Unit.PCT, 99, Unit.PCT);
+			setAsHorizontal=false;
+			
+		}
+	}
 	
 	@Override
 	public HandlerRegistration addValueChangeHandler(
@@ -143,4 +208,5 @@ public class QCMItemView extends Composite implements  HasValue<HasName> {
 	void onProposal_3Click(ClickEvent event) {
 		manageClick(proposal_3,qcmItem.proposal_3);
 	}
+
 }

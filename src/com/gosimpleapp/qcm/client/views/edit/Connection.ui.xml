@@ -9,7 +9,6 @@
 	<g:LayoutPanel>
 	<g:layer >
 		<g:HorizontalPanel  spacing="5">
-		
 			<g:Cell verticalAlignment="ALIGN_MIDDLE">
 				<g:Label>Mail</g:Label>
 			</g:Cell>

@@ -32,4 +32,7 @@ public interface QCMConstants extends Constants {
 	
 	@DefaultStringValue("Wrong")
 	String reponseIncCorrecte();
+	
+	@DefaultStringValue("1.1")
+	String version();
 }

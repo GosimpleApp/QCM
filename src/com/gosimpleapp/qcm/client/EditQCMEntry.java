@@ -97,6 +97,7 @@ public class EditQCMEntry implements EntryPoint,ValueChangeHandler<HasName>,Requ
 	
 		RootLayoutPanel.get().add(connection);
 		RootLayoutPanel.get().setWidgetRightWidth(connection, 0, Unit.EM, 37, Unit.EM);
+		RootLayoutPanel.get().setWidgetTopHeight(connection, 0, Unit.EM, 3, Unit.EM);
 		PublicClassAndData.setMessage("Identification ...");
 
 	}
@@ -113,7 +114,7 @@ public class EditQCMEntry implements EntryPoint,ValueChangeHandler<HasName>,Requ
 	public void loadBrowser(User logged_user){
 		connection.setConnected();
 
-		RootPanel.get("title").setVisible(false);
+
 		user=logged_user;
 		memoryStorage=new MemoryStorage(user);	
 		qcmTreeViewModel=new QCMTreeViewModel(user);
@@ -173,9 +174,14 @@ public class EditQCMEntry implements EntryPoint,ValueChangeHandler<HasName>,Requ
 
 	
 		RootLayoutPanel.get().add(splitLayoutPanel);
-		RootLayoutPanel.get().setWidgetTopBottom(splitLayoutPanel, 1.5, Unit.EM, 0, Unit.EM);
-		RootLayoutPanel.get().setWidgetRightWidth(connection, 0, Unit.EM, 24, Unit.EM);
+		RootLayoutPanel.get().setWidgetTopBottom(splitLayoutPanel, 3.5, Unit.EM, 0, Unit.EM);
 		
+		
+		
+		RootLayoutPanel.get().setWidgetRightWidth(connection, 0, Unit.EM, 37, Unit.EM);
+		RootLayoutPanel.get().setWidgetTopHeight(connection, 0, Unit.EM, 3, Unit.EM);
+		
+		PublicClassAndData.setMessage("");
 		//RootPanel.get("browser").setWidth("100%");
 		//RootPanel.get("browser").setHeight("100%");
 	}
@@ -301,7 +307,7 @@ public class EditQCMEntry implements EntryPoint,ValueChangeHandler<HasName>,Requ
      			DistantStorage.badResult(e);
      			return;
      		}
-     		System.out.println("Parsed"	);
+     		
      		
      		int s=0;
      		try{

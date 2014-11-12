@@ -5,16 +5,16 @@
 
 	</ui:style>
 
-   		<g:HorizontalPanel spacing="10" >
+   		<g:HorizontalPanel spacing="3" >
    			<g:Cell verticalAlignment="ALIGN_MIDDLE" horizontalAlignment="ALIGN_RIGHT">
 				<g:ListBox ui:field="selectionListBox"/>
 			</g:Cell>
 		
 			<g:Cell verticalAlignment="ALIGN_MIDDLE" horizontalAlignment="ALIGN_RIGHT">
-					<g:Label text="Charger :"/>
+					<g:Label text="Charger "  styleName="label"/>
 			</g:Cell>
 			<g:Cell verticalAlignment="ALIGN_MIDDLE" horizontalAlignment="ALIGN_RIGHT">
-				<g:TextBox text="12345678" ui:field="courseIdTextBox" maxLength="10" visibleLength="13"/>
+				<g:TextBox text="1414607419002" ui:field="courseIdTextBox" maxLength="10" visibleLength="13"/>
 			</g:Cell>
 			
 		

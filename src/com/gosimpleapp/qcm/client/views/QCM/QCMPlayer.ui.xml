@@ -7,15 +7,15 @@
 	</ui:style>
 	<g:LayoutPanel>
 
-   	<g:layer right="0px" width="100%">
+   	<g:layer top="1%" height="5%" left="0px" width="60%">
 			<my:QCMSelection ui:field="qcmSelection"></my:QCMSelection>
 		</g:layer>
 		
-   	<g:layer  top='10%' height='5%' left="1%" width="98%">
+   	<g:layer top="1%" height="5%"  left="61%" width="38%">
 			<my:Score ui:field="score"></my:Score>
 		</g:layer>
 		
-	<g:layer  top='17%' height="83%"  left="1%" width="98%">
+	<g:layer  top='8%' height="91%"  left="1%" width="98%">
 			<my:QCMItemView ui:field="qcmItemView"></my:QCMItemView>
 		</g:layer>
 

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
 <ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
 	xmlns:g="urn:import:com.google.gwt.user.client.ui"
-	xmlns:a="urn:import:com.gosimpleapp.qcm.client.views.components"
-	>
+	xmlns:a="urn:import:com.gosimpleapp.qcm.client.adaptativeComponent">
 	<ui:style >
 	</ui:style>
 
@@ -12,13 +11,22 @@
 		<g:layer height="20%" top="0%">
 				 <a:HTMLAdatativeFontSizeWidget  text="question" ui:field="question" styleName="question"/>  
 		</g:layer>
-
-	
-
-		<g:layer height="57%" top="23%">
-			<g:LayoutPanel>
+<!-- 
+	layer.setWidgetTopHeight(layer.getWidget(0), 1,Unit.PCT, 23, Unit.PCT);
+			layer.setWidgetTopHeight(layer.getWidget(1), 26,Unit.PCT, 23, Unit.PCT);
+			layer.setWidgetTopHeight(layer.getWidget(2), 51,Unit.PCT, 23, Unit.PCT);
+			layer.setWidgetTopHeight(layer.getWidget(3), 76,Unit.PCT, 23, Unit.PCT);
 			
-				<g:layer height="48%" top="1%" width="48%" left="1%">
+			
+			layer.setWidgetLeftWidth(layer.getWidget(0), 1,Unit.PCT, 99, Unit.PCT);
+			layer.setWidgetLeftWidth(layer.getWidget(1), 1,Unit.PCT, 99, Unit.PCT);
+			layer.setWidgetLeftWidth(layer.getWidget(2), 1,Unit.PCT, 99, Unit.PCT);
+			layer.setWidgetLeftWidth(layer.getWidget(3), 1,Unit.PCT, 99, Unit.PCT);
+ -->
+		<g:layer height="58%" top="22%">
+			<g:LayoutPanel ui:field="layer">
+			
+				<g:layer  height="48%" top="1%" width="48%" left="1%">
 					<g:LayoutPanel>
 						<g:layer >
 							<a:HTMLAdatativeFontSizeWidget text="Title" ui:field="proposal_0" styleName="proposal" />  
