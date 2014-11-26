@@ -14,7 +14,7 @@
 					<g:Label text="Charger "  styleName="label"/>
 			</g:Cell>
 			<g:Cell verticalAlignment="ALIGN_MIDDLE" horizontalAlignment="ALIGN_RIGHT">
-				<g:TextBox text="1414607419002" ui:field="courseIdTextBox" maxLength="10" visibleLength="13"/>
+				<g:TextBox text="1414607419002" ui:field="courseIdTextBox" maxLength="13" visibleLength="13"/>
 			</g:Cell>
 			
 		
